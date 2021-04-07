@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "croquischallenge_20181038"
